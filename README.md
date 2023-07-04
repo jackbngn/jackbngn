@@ -29,7 +29,7 @@ I'm a passionate developer with a keen interest in web development and open-sour
 
 ## GitHub Stats
 
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackbngn&show_icons=true&theme=radical)
+![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackbngn&show_icons=true&theme=cobalt)
 
 ## Contact Me
 
