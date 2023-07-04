@@ -23,18 +23,8 @@ I'm a passionate developer with a keen interest in web development and open-sour
 - 💡 I'm always looking for new opportunities to collaborate on exciting projects.
 - ⚡ Fun fact: I'm also a Gym enthusiast 🏋️‍♀️
 
-## Skills
-### HTML5 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-
-### CSS3 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-### JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
-### React.js ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-
-### Git ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-
-### Bootstrap ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+## Programming Languages 
+HTML5 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | CSS3 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |  React.js ![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=flat&logo=react&logoColor=black) | Node.js ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 
 
